@@ -19,7 +19,7 @@ Idea:
 •	Figure how this spread has progressed over a period of time, We plotted the confirmed cases 
 •	 Looked at the progression of recovered, death and active cases as well. 
 •	Looking at how this virus has spread across India so far by plotting the four India specific time-series and annotating those with the events manually. 
-•	Now modelling and predicting Covid-19 cases using SIR 
+•	Now modelling and predicting Covid-19 cases using SIR model
 
  
 Motivation:
